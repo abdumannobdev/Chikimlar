@@ -1,0 +1,2 @@
+# Chikimlar
+ Chiqimlar register full 
